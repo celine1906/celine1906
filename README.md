@@ -31,7 +31,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=celine1906&show_icons=true&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celine1906&layout=compact" />
 </p>
 
 ---
