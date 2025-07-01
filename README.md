@@ -6,9 +6,9 @@
 🎓 I'm currently a learner at Apple Developer Academy @BINUS
 
 💡 Passionate about:
-- Human-centered design & innovation
-- Building impactful digital solutions
-- Clean, maintainable, scalable code
+- Building **mobile apps** that prioritize real user needs through thoughtful design and interaction
+- Exploring **Augmented Reality** to create immersive, problem-solving experiences
+- **Clean**, maintainable, scalable code
 
 ---
 
