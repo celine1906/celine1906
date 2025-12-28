@@ -3,7 +3,7 @@
 
 ---
 
-🎓 I'm currently a learner at Apple Developer Academy @BINUS
+I'm an Alumni of Apple Developer Academy 2025
 
 💡 Passionate about:
 - Building **mobile apps** that prioritize real user needs through thoughtful design and interaction
