@@ -25,13 +25,6 @@ I'm an Alumni of Apple Developer Academy 2025
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=celine1906&show_icons=true&layout=compact" />
-</p>
 
 ---
 
